@@ -43,5 +43,13 @@ Dentro do diretorio do projeto eu dou um git status, isso vai mostrar em vermelh
 
     Depois preciso subir as alteracoes para a main dnovo.
 
+## conflito
 
+Sempre antes de comitar, fazer pull
+    git pull origin main ou $_nome_da_branch
 
+    git add .
+
+    git commit -m "mensagem"
+
+    git push origin main ou $nome_da_branch
