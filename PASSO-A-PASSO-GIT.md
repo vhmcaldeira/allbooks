@@ -12,3 +12,19 @@ Dentro da raiz da pasta do projeto EXECUTAR
 Para validar executar:
     git remote
         devera aparecer ˜origin˜
+
+
+## terceiro passo - verificando e comitando alteraçoes
+
+Dentro do diretorio do projeto eu dou um git status, isso vai mostrar em vermelho o que nao foi comitado.
+    git status
+    # ADICIONAR TODOS ARQUIVOS ou ARQUIVO ESPECIFICO na fila pra comitar
+    - git add .
+
+    - git commit -m "aqui coloca mensagem que foi comitada no git da minha maquina."
+    # Coloca aqui onde vai subir o codigo.
+
+    - git push origin main
+
+
+    
