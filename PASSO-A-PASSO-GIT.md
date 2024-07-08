@@ -26,5 +26,20 @@ Dentro do diretorio do projeto eu dou um git status, isso vai mostrar em vermelh
 
     - git push origin main
 
+## Para clonar um repositorio
+    - git clone https://github........
+
+## para puxar um recurso do repositorio
+    - git pull origin main
+
+## trabalhando com branch
+    - git checkout -b $_NOME_DA_BRANCH
+    eu troco para outra brench
+
+    - git branch
+    mostra as branches abertas
 
     
+
+
+
