@@ -39,7 +39,9 @@ Dentro do diretorio do projeto eu dou um git status, isso vai mostrar em vermelh
     - git branch
     mostra as branches abertas
 
-    
+    - git merge $_NOME_DA_BRANCH QUE ESTOU PUXANDO
+
+    Depois preciso subir as alteracoes para a main dnovo.
 
 
 
